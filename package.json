@@ -1,0 +1,1 @@
+{"scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},"dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest","lucide-react":"latest","pdfjs-dist":"^4.10.38","tesseract.js":"^5.1.1"},"devDependencies":{}}
